@@ -1,0 +1,18 @@
+body{
+    background-color: blueviolet
+}
+p{
+    border: 1px solid black
+}
+P{
+    padding: 1em
+}
+h1{
+    background-color: lime
+}
+h2{
+    background-color: teal
+}
+h3{
+    background-color: beige
+}
